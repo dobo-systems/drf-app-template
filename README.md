@@ -25,4 +25,4 @@ app-name/
    apps.py
 
 ```
-To use in project, `./manage.py startapp --template <url> <your-app-name>.
+To use in project, `./manage.py startapp --template=https://github.com/dobo-systems/drf-app-template/archive/main.zip <your-app-name>.`
